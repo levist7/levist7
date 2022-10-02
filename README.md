@@ -14,7 +14,7 @@ Based on machine learning algorithms, it helps users estimate construction cost 
 * [App](costofmyconstructionproject.herokuapp.com)
 
 
-*Note: Other data science projects are in full-time development. They will be avaliable on Github by the end of October '22 as a part of a datascience certification by Jedha.co.*
+*Note: Other data science projects are in full-time development. They will be avaliable on Github by the end of October '22 as a part of a data science certification by Jedha.*
 
 ## Past coding projects (one day that might be available on Github)
 ➜ Python tool on spectrum compatible record selection and modification with cycle-and-shift algorithm
