@@ -13,7 +13,7 @@ Based on machine learning algorithms, it helps users estimating construction cos
 
 * [Github](https://github.com/levist7/Civil-Work-Bidding-And-Investment-Helper)
 
-* [App](costofmyconstructionproject.herokuapp.com)
+* [App](https://costofmyconstructionproject.herokuapp.com)
 
 
 *Note: Some other data science projects are in full-time development. They will be avaliable on Github by the end of October '22 as a part of a data science certification programme by Jedha.*
