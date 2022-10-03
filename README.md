@@ -1,26 +1,26 @@
 <h1 align="center">user.describe( )</h1>
 
-<p align="center"><em>Thanks for checking out my github!</em></p>
+<p align="center"><em>Thanks for checking out my github profile!</em></p>
 
 With data and coding experience in research and engineering activities, I am in a transition to a role related to data science/ cloud computing/ software development.
 
-## Repo to Checkout 🧐
+## Repo to checkout 🧐
 
 ➜ Civil Work Bidding Price Prediction in San Francisco. AI-Powered.
  
-Based on machine learning algorithms, it helps users estimate construction cost on future housing or appartment projects in San Francisco, California.
-> Domains: supervised machine learning, feature engineering, data visualation, deployment, model performances, construction cost, investment
+Based on machine learning algorithms, it helps users estimating construction cost of future housing or appartment projects in San Francisco, California.
+> Domains: supervised machine learning, feature engineering, data visualization, model performances, construction cost, investment, app deployment
 
 * [Github](https://github.com/levist7/Civil-Work-Bidding-And-Investment-Helper)
 
 * [App](costofmyconstructionproject.herokuapp.com)
 
 
-*Note: Some other data science projects are in full-time development. They will be avaliable on Github by the end of October '22 as a part of a data science certification by Jedha.*
+*Note: Some other data science projects are in full-time development. They will be avaliable on Github by the end of October '22 as a part of a data science certification programme by Jedha.*
 
-## Past coding projects (closed source)
-➜ Python tool on spectrum compatible record selection and modification with cycle-and-shift algorithm
-> Domains: algorithm development, automation, optimization, large data sets, signal processing 
+## Closed-source coding projects
+➜ Python tools on spectrum compatible record selection and modification with cycle-and-shift algorithm
+> Domains: algorithm development, automation, optimization, large data sets, data analytics, signal processing 
 * [Manuscript on its development](https://tel.archives-ouvertes.fr/tel-01809010)
 
 
@@ -32,9 +32,9 @@ Based on machine learning algorithms, it helps users estimate construction cost 
 or [book chapter with summary on its development](https://link.springer.com/chapter/10.1007/978-3-030-59169-4_6)
 
 
-## Tech Overview
+## Tech overview
 
-### Currently Using 🤖🧠
+### Currently using 🤖🧠
 
 **Languages**: Python, SQL
 
@@ -50,7 +50,7 @@ or [book chapter with summary on its development](https://link.springer.com/chap
 
 **Cloud**: Google Cloud Computing
 
-### Past Tech
+### Past tech ⌛
 
 Visual Basic, some VBA, some Matlab, little Fortran90.
 
