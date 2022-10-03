@@ -1,6 +1,8 @@
+<h1 align="center">user.describe( )</h1>
+
 <p align="center"><em>Thanks for checking out my github!</em></p>
 
-With coding and data experience in research and engineering activities, I am in a transition to a role related to data science, cloud computing, software development.
+With data and coding experience in research and engineering activities, I am in a transition to a role related to data science/ cloud computing/ software development.
 
 ## Repo to Checkout 🧐
 
@@ -14,9 +16,9 @@ Based on machine learning algorithms, it helps users estimate construction cost 
 * [App](costofmyconstructionproject.herokuapp.com)
 
 
-*Note: Other data science projects are in full-time development. They will be avaliable on Github by the end of October '22 as a part of a data science certification by Jedha.*
+*Note: Some other data science projects are in full-time development. They will be avaliable on Github by the end of October '22 as a part of a data science certification by Jedha.*
 
-## Past coding projects (one day that might be available on Github)
+## Past coding projects (closed source)
 ➜ Python tool on spectrum compatible record selection and modification with cycle-and-shift algorithm
 > Domains: algorithm development, automation, optimization, large data sets, signal processing 
 * [Manuscript on its development](https://tel.archives-ouvertes.fr/tel-01809010)
@@ -52,7 +54,7 @@ or [book chapter with summary on its development](https://link.springer.com/chap
 
 Visual Basic, some VBA, some Matlab, little Fortran90.
 
-Scripting for finite element analysis such as Ansys APDL, Opensees and CAST3M
+Scripting for finite element analysis software such as Ansys APDL, Opensees and CAST3M
 
 <!---
 levist7/levist7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
