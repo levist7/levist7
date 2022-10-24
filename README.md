@@ -2,7 +2,9 @@
 
 <p align="center"><em>Thanks for checking out my github profile!</em></p>
 
-With data and coding experience in research and engineering activities, I am in a transition to a role related to data science/ cloud computing/ software development.  
+With data and coding experience in research and engineering activities, I am in a transition to a role related to data science/ cloud computing/ software development. 
+
+---
 ### Repo to checkout 🧐
 ➜ Civil Work Bidding Price Prediction in San Francisco. AI-Powered.  
  Based on machine learning algorithms, it helps users estimating construction cost of future housing or appartment projects in San Francisco, California.  
@@ -12,6 +14,7 @@ With data and coding experience in research and engineering activities, I am in 
 
 *Note: Some other data science projects are in full-time development. They will be avaliable on Github by the end of October '22 as a part of a data science certification programme by Jedha.*
 
+---
 ### Closed-source coding projects  
 ➜ Python tools on spectrum compatible record selection and modification with cycle-and-shift algorithm  
 > Domains: algorithm development, automation, optimization, large data sets, data analytics, signal processing  
@@ -23,6 +26,7 @@ With data and coding experience in research and engineering activities, I am in 
 * [Manuscript with details on its development](https://www.researchgate.net/publication/363336985_Predicting_Time-Dependent_Deformations_in_Prestressed_Concrete_Girders)
 or [book chapter with summary on its development](https://link.springer.com/chapter/10.1007/978-3-030-59169-4_6)  
 
+---
 ### Tech overview  
 #### Currently using 💻
 **Languages**: Python, SQL  
