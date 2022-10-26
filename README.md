@@ -22,7 +22,7 @@ With data and coding experience in research and engineering activities, I am in 
 
 ➜ ALCAMBER - Software package providing improved estimates of camber in concrete bridge girders  
 > Domains: user interface, back- and front-end development, debugging, visual basic, visual studio  
-* [App on demand](https://www.eng.auburn.edu/research/centers/hrc/hrc-info-pages/research/software.html)  
+* [App on demand](https://eng.auburn.edu/research/centers/hrc/hrc-info-pages/research/alcamber)  
 * [Manuscript with details on its development](https://www.researchgate.net/publication/363336985_Predicting_Time-Dependent_Deformations_in_Prestressed_Concrete_Girders)
 or [book chapter with summary on its development](https://link.springer.com/chapter/10.1007/978-3-030-59169-4_6)  
 
