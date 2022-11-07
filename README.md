@@ -2,7 +2,7 @@
 
 <p align="center"><em>Thanks for checking out my github profile!</em></p>
 
-With data and coding experience in research and engineering activities, I am in a transition to a role related to data science/ cloud computing/ software development. 
+With data and coding experience in research and engineering activities, I am building up my skills in data science/ machine learning engineering/ cloud computing/ software development. 
 
 ---
 ### Repo to checkout 🧐
@@ -12,7 +12,7 @@ With data and coding experience in research and engineering activities, I am in 
 * [Github](https://github.com/levist7/Civil-Work-Bidding-And-Investment-Helper)  
 * [App](https://costofmyconstructionproject.herokuapp.com)  
 
-*Note: Some other data science projects are in full-time development. They will be avaliable on Github by the end of October '22 as a part of a data science certification programme by Jedha.*
+*Note: Some other data science projects are avaliable here on my Github repos as a part of a data science certification programme by Jedha.*
 
 ---
 ### Closed-source coding projects  
