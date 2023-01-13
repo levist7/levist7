@@ -16,11 +16,10 @@ With data and coding experience in research and engineering activities, I am dee
 Deployment of an online API to predict Getaround car rental price with an endpoint containing a trained XGBoost model and then production of a dashboard to give insights on the cost of implementing a new feature
 > Domains: supervised machine learning, data visualization, FastAPI, testing new use cases, insights, solutions to business problems and app deployment  
 * [Github](https://github.com/levist7/GetAround_EDA_ML_Dashboard_API_Project)  
-* [API/docs](http://getaround-api-xgboost.herokuapp.com/docs)  
-* [API/predict](http://getaround-api-xgboost.herokuapp.com/predict)
+* [API/docs](http://getaround-api-xgboost.herokuapp.com/docs) and [API/predict](http://getaround-api-xgboost.herokuapp.com/predict)  
 * [Dashboard](http://getaround-dashboard-threshold.herokuapp.com)
 
-*Note: Some other data science projects are available here on my Github.*
+*Note: Other data science projects are available here on my Github.*
 
 ---
 ### Closed-source coding projects  
