@@ -2,7 +2,7 @@
 
 <p align="center"><em>Thanks for checking out my github profile!</em></p>
 
-With data and coding experience in research and engineering activities, I am deepening my skills in data science/ machine learning/ cloud computing/ software development. 
+With data and coding experience in research and engineering activities, I am deepening my skills in data science and machine learning.
 
 ---
 ### Repo to checkout 🧐
