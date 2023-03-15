@@ -4,9 +4,8 @@
 
 With data and coding experience in research and engineering activities, I am deepening my skills in data science and machine learning.
 
-[Portfolio](https://github.com/levist7/portfolio)    
+### [Portfolio](https://github.com/levist7/portfolio)    
 
----
 ### Tech overview  
 #### Currently using 💻
 **Languages**: Python, SQL  
